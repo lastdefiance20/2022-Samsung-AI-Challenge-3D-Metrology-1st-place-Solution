@@ -15,16 +15,21 @@ overview image
 > **docker tag** \
 > pt112-tf29-jax0314-py39-20220803
 > ## Machine Environment
-> Intel i9-10900 CPU, RTX3090 GPU
+> Intel i9-10900 CPU, RTX3090 GPU, window 10 anaconda3 jupyter notebook
 
 ## File Structure
 ```
+┖ cycle
+  ┖ ~
 ┖ [ST]cycle_wider_BNGN.ipynb
 ┖ [CNN]Train.ipynb
 ┖ [INF]Inference.ipynb
 ┖ open.zip
 ┖ Readme.md
 ```
+
+cycle folder
+- model pth file and training image folder. It will be generated after [ST] or download weight.
 
 [ST]cycle_wider_BNGN.ipynb 
 - Train GAN model for transfer simulation sem image to train sem image style.
