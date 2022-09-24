@@ -2,7 +2,7 @@
 AI solution that produces depth image from SEM image
 
 ## Solution Overview
-overview image
+![overview image](./figures/overview.png)
 
 ## Team member
 정재윤, 위성진, 장준보
@@ -19,13 +19,14 @@ overview image
 
 ## File Structure
 ```
-┖ cycle
+┖ figures
   ┖ ~
 ┖ [ST]cycle_wider_BNGN.ipynb
 ┖ [CNN]Train.ipynb
 ┖ [INF]Inference.ipynb
 ┖ open.zip
 ┖ Readme.md
+┖ Samsung-sem-1st.pdf
 ```
 
 cycle folder
@@ -42,6 +43,9 @@ cycle folder
 
 open.zip 
 - data download from [2022 Samsung AI Challenge (3D Metrology)](https://dacon.io/competitions/official/235954/data)
+
+Samsung-sem-1st.pdf
+- code presentation written by korean
 
 ## Dataset
 We train and evaluate our model using the dataset from [2022 Samsung AI Challenge (3D Metrology)](https://dacon.io/competitions/official/235954/data)
