@@ -1,8 +1,7 @@
 # 2022 Samsung AI Challenge (3D Metrology) 1st place Solution
 AI solution that produces depth image from SEM image
 
-## [Solution presentation](./Samsung-sem-1st.pdf)
-you can see our presentation at [Samsung-sem-1st.pdf](./Samsung-sem-1st.pdf)
+> resentation : [Samsung-sem-1st.pdf](./Samsung-sem-1st.pdf)
 
 ## Solution Overview
 ![overview image](./figures/overview.png)
@@ -47,7 +46,7 @@ cycle folder
 open.zip 
 - data download from [2022 Samsung AI Challenge (3D Metrology)](https://dacon.io/competitions/official/235954/data)
 
-Samsung-sem-1st.pdf
+[Samsung-sem-1st.pdf](./Samsung-sem-1st.pdf)
 - code presentation written by korean
 
 ## Dataset
